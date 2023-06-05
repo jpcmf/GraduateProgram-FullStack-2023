@@ -1,7 +1,7 @@
 # Graduate Program - Full Stack Development 2023
 Repository for João Paulo Fricks' Graduate Program at PUCRS University from April 2023 to April 2024.
 
-## :man_technologist: About the author
+## 👨🏻‍💻 About the author
 
 <img src="https://github.com/jpcmf.png" width="235" alt="avatar"/>
 
